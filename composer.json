@@ -1,5 +1,5 @@
 {
-    "name": "netbuilding/laravel-query-builder",
+    "name": "spatie/laravel-query-builder",
     "description": "Easily build Eloquent queries from API requests",
     "keywords": [
         "spatie",
