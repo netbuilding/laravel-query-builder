@@ -56,6 +56,9 @@
             ]
         }
     },
+    "replace": {
+        "spatie/laravel-query-builder": "3.3.4"
+    }
     "minimum-stability": "dev",
     "prefer-stable": true
 }
